@@ -14,6 +14,6 @@ This simulation includes the following CPU scheduling algorithms:
 - Shortest Job First (SJF)
 - Priority Scheduling
 - Round Robin (RR)
-- Shortest Remaining Time first(SRTF)
+- Shortest Remaining Time First(SRTF)
 
 Live Demo: https://cpu-scheduling-simulation.netlify.app/
