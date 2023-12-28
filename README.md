@@ -1,4 +1,4 @@
-CPU Scheduling Simulation
+# CPU Scheduling Simulation
 
 This repository hosts a CPU Scheduling Simulation tool designed to demonstrate and analyze various CPU scheduling algorithms. The simulation offers an interactive way to understand how different scheduling strategies work in operating systems.
 
